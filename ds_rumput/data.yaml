@@ -1,0 +1,13 @@
+train: C:/Users/Doni Wicaksana/Documents/Code/belajar/temporer/yolo11/ds_rumput/train/images
+val: C:/Users/Doni Wicaksana/Documents/Code/belajar/temporer/yolo11/ds_rumput/valid/images
+test: C:/Users/Doni Wicaksana/Documents/Code/belajar/temporer/yolo11/ds_rumput/test/images
+
+nc: 14
+names: ['akar wangi', 'akar wangi palsu', 'bayi', 'buah daun', 'clover', 'daun tiga', 'gingseng jawa', 'lumut besar', 'masker', 'rambat atas', 'rambat bawah', 'tunggang besar', 'tunggang tengah', 'ungu tunggang']
+
+roboflow:
+  workspace: rumput
+  project: rumput-mie91
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/rumput/rumput-mie91/dataset/1
