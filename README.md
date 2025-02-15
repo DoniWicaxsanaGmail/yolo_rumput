@@ -1,5 +1,10 @@
 # Mencabut rumput dengan AI
-setiap kali saya berjalan di rumput gajah mini yang saya pelihara saya merasa tidak ada masalah. namun jika diperhatikan ada beberapa rumput liar yang bentuk dan warnanya serupa. sehingga sering melakukan pemeliharaan dengan mencabut rumput-rumput liar tersebut. tapi keterbatasan mata manusia untuk rumput yang memiliki warna yang serupa cenderung susah kita lihat dan tiba-tiba rumput sudah besar dan menutupi rumput gajah mini yang kita pelihara. masalah terbesar adalah saat saya tinggal ke luar kota dan ketika pulang ke rumah hampir 20% rumput saya mati karena tertutup rumput liar. hedeeeh katanya rumput gajah masa kalah sama rumput liar.
+<p align="center">
+  <img src="https://github.com/DoniWicaxsanaGmail/yolo_rumput/blob/main/img/img (3).jpeg?raw=true" width="400" alt="before">
+  <img src="https://github.com/DoniWicaxsanaGmail/yolo_rumput/blob/main/results/result3.jpg?raw=true" width="400" alt="Object Detection">
+</p>
+
+Setiap kali saya berjalan di rumput gajah mini yang saya pelihara saya merasa tidak ada masalah. namun jika diperhatikan ada beberapa rumput liar yang bentuk dan warnanya serupa. sehingga sering melakukan pemeliharaan dengan mencabut rumput-rumput liar tersebut. tapi keterbatasan mata manusia untuk rumput yang memiliki warna yang serupa cenderung susah kita lihat dan tiba-tiba rumput sudah besar dan menutupi rumput gajah mini yang kita pelihara. masalah terbesar adalah saat saya tinggal ke luar kota dan ketika pulang ke rumah hampir 20% rumput saya mati karena tertutup rumput liar. hedeeeh katanya rumput gajah masa kalah sama rumput liar.
 ## Belajar AI
 Saya seorang QA Manager saya suka menghabiskan waktu luang saya untuk mempelajari hal-hal baru, kemunculan Chat GPT membuat saya penasaran untuk mempelajari AI, hingga saya membuat Private AI dengan Langchain, Ollama, NextJs, dan llama 3 dan Speech recognition. akhir nya saya bisa berbicara menggunakan suara dengan AI saya. selama berselancar di internet saya lihat banyak sekali model-model AI yang sebenarnya bisa kita gunakan (Tinggal Pake aja..!) salah satunya YOLO saya mencoba untuk mendeteksi beberapa object dengan YOLO.
 ## Berpikir LIAR melawan rumput LIAR
